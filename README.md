@@ -11,7 +11,7 @@ I'n my case I use this to run on a RPi, which takes a while to run but works fin
 Dependencies
 -----------------------------------------------------------
 
-- iceweasel
+- Chromedriver
 - xvfb
 - python
   - Selenium
