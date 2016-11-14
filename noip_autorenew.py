@@ -35,6 +35,6 @@ print browser.page_source.encode('utf-8')
 browser.implicitly_wait(60)
 
 #Click link
-browser.find_element_by_xpath("//*[@id='host-panel']/table/tbody/tr/td[5]/span/span/div/a").click()
+browser.find_element_by_xpath("//*[@id='host-panel']/table/tbody/tr/td[6]/div").click()
 
 browser.quit()
